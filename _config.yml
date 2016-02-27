@@ -1,0 +1,14 @@
+layout_spectrum: 1
+typography_spectrum: 0.5139635
+color:
+  saturation: 0.9030803
+  lightness: 0.7163502
+  brandStrength: 0.3759591
+  rhythmicContrast: 0.258863
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Shortfuse
